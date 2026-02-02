@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pearl_articles",
+  "info": {
+    "singularName": "pearl-article",
+    "pluralName": "pearl-articles",
+    "displayName": "Pearl Article"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": false
+    }
+  },
+  "attributes": {
+    "user111": {
+      "type": "string"
+    }
+  }
+}
