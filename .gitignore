@@ -128,4 +128,16 @@ exports
 dist
 build
 .strapi-updater.json
+
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# macOS
+.DS_Store
+
+# Node
+node_modules
 .strapi-cloud.json
