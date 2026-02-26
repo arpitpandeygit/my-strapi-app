@@ -1,4 +1,4 @@
-# Strapi Local Setup – Internship Task 1
+# Strapi Local Setup 
 
 ## Objective
 Set up Strapi locally, explore the project folder structure, start the admin panel, and create a sample content type.
